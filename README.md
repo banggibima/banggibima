@@ -7,7 +7,7 @@ My first experience with programming was through competitive programming when I 
 Apart from being in software engineering, I also love UI design. When I have free time, I spend it creating UI designs.
 
 ### My Favorite Quote
-> "Change is hardest at the beginning, messiest in the middle and best at the end."
+> *"Change is hardest at the beginning, messiest in the middle and best at the end."*
 > **Robin Sharma**
 
 ### Github Stats
