@@ -1,4 +1,4 @@
-# Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# `Hi folks` <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Banggi Bima Edriantino, a software engineer interested in full-stack development.
 
