@@ -1,4 +1,6 @@
-# `Hi folks` <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">
+
+# `Hi folks` 
 
 I'm Banggi Bima Edriantino, a software engineer interested in full-stack development.
 
@@ -9,11 +11,3 @@ Apart from being in software engineering, I also love UI design. When I have fre
 ### My Favorite Quote
 > *"Change is hardest at the beginning, messiest in the middle and best at the end."*
 > **Robin Sharma**
-
-### Github Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=banggibima&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-
-### Get in touch with me
-* [Instagram](https://www.instagram.com/edriantino)
-* [LinkedIn](https://www.linkedin.com/in/banggibima)
-* [Behance](https://behance.net/banggibima)
